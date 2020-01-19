@@ -1,7 +1,3 @@
-*Psst �looking for a shareable component template? Go here --> [sveltejs/component-template](https://github.com/sveltejs/component-template)*
-
----
-
 # screen recorder app
 
 This is a simple screen recorder project created with [Svelte](https://svelte.dev) apps. Live demo at [vujson.com](https://vujson.com/screenrecorder/).
