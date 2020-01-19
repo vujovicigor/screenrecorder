@@ -1,27 +1,16 @@
-*Psst  looking for a shareable component template? Go here --> [sveltejs/component-template](https://github.com/sveltejs/component-template)*
+*Psst ï¿½looking for a shareable component template? Go here --> [sveltejs/component-template](https://github.com/sveltejs/component-template)*
 
 ---
 
-# svelte app
+# screen recorder app
 
-This is a project template for [Svelte](https://svelte.dev) apps. It lives at https://github.com/sveltejs/template.
-
-To create a new project based on this template using [degit](https://github.com/Rich-Harris/degit):
-
-```bash
-npx degit sveltejs/template svelte-app
-cd svelte-app
-```
-
-*Note that you will need to have [Node.js](https://nodejs.org) installed.*
-
+This is a simple screen recorder project created with [Svelte](https://svelte.dev) apps. Live demo at [vujson.com](https://vujson.com/screenrecorder/).
 
 ## Get started
 
 Install the dependencies...
 
 ```bash
-cd svelte-app
 npm install
 ```
 
