@@ -1,4 +1,4 @@
-# screen recorder app
+# Screen recorder app
 
 This is a simple screen recorder project created with [Svelte](https://svelte.dev) apps. Live demo at [vujson.com](https://vujson.com/screenrecorder/).
 
